@@ -1,0 +1,1 @@
+A firewall filters network traffic based on predefined rules. It can allow or block traffic using parameters like port number, protocol, and direction. In this task, port 23 was blocked to prevent insecure Telnet access, while port 22 was allowed for secure SSH communication. This improves system security by controlling unauthorized access.
